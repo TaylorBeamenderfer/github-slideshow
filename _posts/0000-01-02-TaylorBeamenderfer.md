@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-# *You've **ye'd** your last **haw** *
+_You've __ye'd__ ur last __haw__.
 Use the left arrow to go back!
